@@ -1,5 +1,7 @@
 # Chapter 1 – Clean Code
 
+The book starts with how clean code is important and how even it brought a company down due to poor code as it was difficult to work with and hence app was slow. The bad code keep reducing the productivity with time. I really love the line saying the fastest way to code is coding it properly following each practices. In short term it maybe slow but in long term that's the fastest way.
+
 ## Key Takeaways
 
 ### 1. **Clean Code Matters**
@@ -13,6 +15,7 @@ Book shares perspective from many well-known developers. Here's my brief. Clean 
 - Clean code is readable and elegant. It makes the reader feel at ease.
 - Clean code minimizes the number of entities (classes, methods, variables, etc.).
 - Clean code always looks like it was written by someone who cares.
+- Clean code without tests is not clean
 
 ## Characteristics of Clean Code
 
